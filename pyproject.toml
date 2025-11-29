@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "ccagent"
+version = "0.1.0"
+description = "CCAgent (Code Chronicler Agent) is an AI agent that analyzes source code to generate technical documentation and architecture diagrams automatically."
+authors = ["Michael Douglas"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.13,<4.0"
+diagrams = ">=0.25.0"
+google-adk = ">=1.19.0"
+python-dotenv = ">=1.2.1"
+python-gitlab = ">=7.0.0"
+
+[[tool.poetry.packages]]
+include = "agent"
+
+[[tool.poetry.packages]]
+include = "assets"
+
+[[tool.poetry.packages]]
+include = "config"
+
+[[tool.poetry.packages]]
+include = "services"
+
+[[tool.poetry.packages]]
+include = "tools"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
