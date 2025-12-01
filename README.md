@@ -51,6 +51,10 @@ In this project, we adopt a **Single-Agent Architecture**, where a single agent 
 
 All system intelligence and orchestration are centralized in the **CCAgent**, ensuring simplicity, control, and ease of maintenance.
 
+<p align="center">
+<img src="./assets/images/adk_agent_example.gif" alt="Prometheus interface" width="500" style= "padding-top: 10px;"/>
+</p>
+
 For more information, please visit the official [**Google ADK**](https://google.github.io/adk-docs/) documentation.
 
 &nbsp;&nbsp;&nbsp;
